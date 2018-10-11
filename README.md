@@ -1,2 +1,1 @@
-# BayesSchool
 # Yandex.Reseach
